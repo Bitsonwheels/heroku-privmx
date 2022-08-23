@@ -1,2 +1,2 @@
-FROM heroku/heroku:16
+FROM heroku/heroku:20
 #FROM buddy/git-push:1.1
